@@ -1,0 +1,18 @@
+.profile-img {
+  width: 180px;
+  top: -70px;
+  height: 100px;
+  left: 80px;
+  position: absolute;
+}
+
+.hero-title {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.hero-caption {
+  font-size: 14px;
+  font-weight: 300;
+}

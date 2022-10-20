@@ -1,0 +1,12 @@
+.brand-icon {
+}
+.chat-icon {
+  background-color: tomato;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  font-size: 8px;
+  top: -2px;
+  right: -5px;
+}

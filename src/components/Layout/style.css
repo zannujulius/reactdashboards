@@ -1,0 +1,22 @@
+.main-cover {
+  height: 100vh;
+}
+.left-container {
+  width: 24%;
+  height: 100vh;
+  border-right: 1px solid #eee;
+}
+
+.right-container {
+  width: 35%;
+  height: 100vh;
+  border-left: 1px solid #eee;
+}
+
+.content {
+  overflow-y: scroll;
+  overflow-x: none;
+  height: 100vh;
+  background: #f5f5fb;
+  width: 100%;
+}
