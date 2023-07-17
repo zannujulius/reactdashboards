@@ -1,6 +1,6 @@
 import Layout from "../../components/Layout";
 import PageTitle from "../../components/PageTitle";
-import ProfileImg from "../../assets/svg/profileimg.svg";
+import ProfileImg from "../../assets/png/learnedgirl.png";
 import { color } from "../../constant/color";
 import "./style.css";
 import ResultCard from "../../components/Dasboard/ResultCard";
@@ -64,11 +64,11 @@ const Dashboard = () => {
               position: "relative",
             }}
           >
-            <div className="profile-img d-none">
+            <div className="profile-img ">
               <img
                 src={ProfileImg}
-                className="image-fluid"
-                alt={"profile image"}
+                className="image-fluid profile-image"
+                alt={"profile"}
               />
             </div>
           </div>

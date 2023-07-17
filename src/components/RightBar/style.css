@@ -1,0 +1,21 @@
+.rightbar-profile{
+     width: 140px;
+     height: 140px;
+     border-radius: 50%;
+     border: 4px solid #ececf2;
+     margin-left: 90px;
+}
+.rightbar-profileimg{
+    width: 80px;
+}
+.add-icon {
+  background-color: #5d80f3;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  font-size: 18px;
+  font-weight: 700;
+  bottom: 1px;
+  right: 15px;
+}

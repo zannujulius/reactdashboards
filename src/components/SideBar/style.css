@@ -1,5 +1,4 @@
-.brand-icon {
-}
+
 .chat-icon {
   background-color: tomato;
   border-radius: 50%;
@@ -9,4 +8,17 @@
   font-size: 8px;
   top: -2px;
   right: -5px;
+}
+.upgrade-container{
+  height: 200px;
+  border: 2px solid #eee;
+  margin-top: 85px;
+}
+
+.upgrade-img{
+  width: 150px;
+  top: -45px;
+  height: 150px;
+  left: 8px;
+  position: absolute;
 }
