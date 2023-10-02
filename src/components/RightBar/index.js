@@ -50,7 +50,7 @@ const RightBar = () => {
           <IoAdd />
         </div>
       </div>
-      <div>Anna Morrison</div>
+      <div>Ezinne Nnabugwu</div>
       <div>Student</div>
 
       <div className="score-details mt-3">

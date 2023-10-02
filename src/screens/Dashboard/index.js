@@ -47,7 +47,7 @@ const Dashboard = () => {
                   color: color.red,
                 }}
               >
-                Welcome back Anna!
+                Welcome back Ezinne!
               </div>
               <div className="text-start hero-caption pb-1">
                 You've learned <span className="fw-bold">80%</span> of your goal

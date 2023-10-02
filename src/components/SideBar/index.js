@@ -19,9 +19,9 @@ const Sidebar = ({}) => {
             background: color.primary,
           }}
         >
-          L
+          Z
         </div>
-        <div className="brand-name fw-bold  mx-2">LingLee</div>
+        <div className="brand-name fw-bold  mx-2">Zinniee</div>
       </div>
       <div className="link-cover mt-5 pt-1">
         <a
